@@ -1,4 +1,10 @@
 # SmoothRefreshLayout
+
+[![Release](https://jitpack.io/v/com.github.dkzwm/SmoothRefreshLayout.svg)](https://jitpack.io/#dkzwm/SmoothRefreshLayout)
+[![Methods](https://img.shields.io/badge/Methods and size-1056 | 108 KB-e91e63.svg)](http://www.methodscount.com/?lib=com.github.dkzwm.SmoothRefreshLayout%3Acore%3A1.5.0.2)
+[![MinSdk](https://img.shields.io/badge/MinSdk-11-blue.svg)](https://developer.android.com/about/versions/android-3.0.html)
+[![License](https://img.shields.io/github/license/dkzwm/SmoothRefreshLayout.svg)](https://github.com/dkzwm/SmoothRefreshLayout/blob/master/LICENSE)
+
 ## English | [中文](https://github.com/dkzwm/SmoothRefreshLayout/blob/master/README.md)
 
 A highly efficient refresh library for Android.Can support all Views.It's easy to use and more powerful than SwipeRefreshLayout.    
@@ -20,7 +26,7 @@ Thank him for providing such a great open source library ！
  - Many callback interface and debugging information.
 
 ## Demo
-下载 [Demo.apk](https://raw.githubusercontent.com/dkzwm/SmoothRefreshLayout/master/apk/demo.apk)    
+Download [Demo.apk](https://raw.githubusercontent.com/dkzwm/SmoothRefreshLayout/master/apk/demo.apk)    
 
 ## Snapshots
 - Test Horizontal Refresh（Added since version 1.5.0）    
